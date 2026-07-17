@@ -5,7 +5,7 @@ import { FaWhatsapp } from "react-icons/fa6";
 import { GoGoal } from "react-icons/go";
 import { FaEye } from "react-icons/fa";
 import { IoDiamond } from "react-icons/io5";
-// import Lastkid from "../assets/lastkid.jpg";
+import Lastkid from "../assets/lastkid.jp";
 function AnimatedSection({ children, className }) {
   return (
     <motion.div

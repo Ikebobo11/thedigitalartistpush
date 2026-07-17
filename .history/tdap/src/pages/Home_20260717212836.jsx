@@ -171,7 +171,7 @@ function Home() {
         <motion.div initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
           <h2 className="cta-title">Ready to Take Your Music Career to the Next Level?</h2>
           <p className="cta-subtitle">Join hundreds of independent artists who trust us for their music distribution and promotion needs.</p>
-          <a href="https://wa.me/2347074171697?text=Hello%20The%20Digital%20Artist%20Push!%20I%20want%20to%20grow%20my%20music%20career." target="_blank" rel="noopener noreferrer" className="btn btn-whatsapp btn-large"><FaWhatsapp /> Start Your Journey Now</a>
+          <a href="https://wa.me/2348000000000?text=Hello%20The%20Digital%20Artist%20Push!%20I%20want%20to%20grow%20my%20music%20career." target="_blank" rel="noopener noreferrer" className="btn btn-whatsapp btn-large"><FaWhatsapp /> Start Your Journey Now</a>
         </motion.div>
       </section>
     </main>

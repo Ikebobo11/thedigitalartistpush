@@ -20,7 +20,7 @@ import { PiStrategyBold } from "react-icons/pi";
 import { SlControlPlay } from "react-icons/sl";
 import lastkid from "../assets/lastkid.jpg";
 import Logicxxx from "../assets/logicxxx.jpg";
-import ayodise from "../assets/ayodise.jpg"
+import ayodise from "../assets/ayodise.e"
 export const servicesData = [
   {
     id: "distribution",

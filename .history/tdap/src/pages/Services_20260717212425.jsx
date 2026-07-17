@@ -64,7 +64,7 @@ function Services() {
         <motion.div initial={{ opacity:0, y:40 }} whileInView={{ opacity:1, y:0 }} viewport={{ once:true }}>
           <h2 className="cta-title">Not Sure Which Service You Need?</h2>
           <p className="cta-subtitle">Contact us and we'll help you create a customized growth plan tailored to your music and goals.</p>
-          <a href="https://wa.me/2347074171697?text=Hello%20The%20Digital%20Artist%20Push!%20I%20need%20help%20choosing%20the%20right%20service." target="_blank" rel="noopener noreferrer" className="btn btn-whatsapp btn-large"><FaWhatsapp /> Get Free Consultation</a>
+          <a href="https://wa.me/2348000000000?text=Hello%20The%20Digital%20Artist%20Push!%20I%20need%20help%20choosing%20the%20right%20service." target="_blank" rel="noopener noreferrer" className="btn btn-whatsapp btn-large"><FaWhatsapp /> Get Free Consultation</a>
         </motion.div>
       </section>
     </main>

@@ -18,9 +18,7 @@ import { MdOutlineWorkspacePremium } from "react-icons/md";
 import { MdOutlineContactSupport } from "react-icons/md";
 import { PiStrategyBold } from "react-icons/pi";
 import { SlControlPlay } from "react-icons/sl";
-import lastkid from "../assets/lastkid.jpg";
-import Logicxxx from "../assets/logicxxx.jpg";
-import ayodise from "../assets/ayodise.jpg"
+
 export const servicesData = [
   {
     id: "distribution",
@@ -388,26 +386,28 @@ export const servicesData = [
 
 export const testimonials = [
   {
-    name: "Lastkid",
+    name: "David Adeleke",
     role: "Afrobeat Artist",
-    text: "The Digital Artist Push has been a game-changer for my music career. Their professionalism and dedication have helped me grow. I highly recommend their services to any artist looking to take their career to the next level!",
-    rating: 5,
-    avatar: lastkid,
-  },
-  {
-    name: "Logicxxx",
-    role: "Afro Hiphop",
-    text: "Yeah, thedigitalartistpush is legit.Their team is professional, reliable, and always ready to help. I highly recommend their services to any artist looking to grow their career.",
-    rating: 5,
-    avatar: Logicxxx,
-  },
-  {
-    name: "Ayodise",
-    role: "HipHop Artist",
-    text: "Thedigitalartistpush is the best I have ever worked with since they are fast and reliable. More power to your elbow. I know that with Thedigitalartistpush, upcoming artists will find it easy to break through and make money low-key.",
+    text: "vice is unmatched!",
     rating: 5,
     avatar:
-     ayodise,
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+  },
+  {
+    name: "Chioma Okafor",
+    role: "R&B Singer",
+    text: "Professional, reliable, and results-driven. They got my music on every major platform and set up my YouTube Official Artist Channel. Highly recommended!",
+    rating: 5,
+    avatar:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+  },
+  {
+    name: "Emeka Nwosu",
+    role: "Rap Artist",
+    text: "Their distribution service is top-notch. My music is now available in over 200 countries. The team handles everything from metadata to royalties. Amazing!",
+    rating: 5,
+    avatar:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80",
   },
 ];
 
