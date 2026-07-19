@@ -65,15 +65,14 @@ function Contact() {
     {
       icon: IoIosTime,
       title: "Business Hours",
-      details: "Sun-Mon: 8AM-11PM",
-      // \nSat: 10AM-4PM\nSun: Closed
+      details: "Sun-: 8AM-6PM\nSat: 10AM-4PM\nSun: Closed",
       action: "#",
       actionText: null,
     },
   ];
   const socialLinks = [
-    { icon: FaInstagram, name: "Instagram", url: "https://www.instagram.com/thedigitalartistpush/" },
-    { icon: FaFacebook, name: "Facebook", url: "https://www.facebook.com/share/1GKkc93QdW/" },
+    { icon: FaInstagram, name: "Instagram", url: "#" },
+    { icon: FaFacebook, name: "Facebook", url: "#" },
     { icon: FaTiktok, name: "TikTok", url: "#" },
   ];
 

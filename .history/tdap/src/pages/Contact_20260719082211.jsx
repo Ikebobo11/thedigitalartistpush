@@ -73,7 +73,7 @@ function Contact() {
   ];
   const socialLinks = [
     { icon: FaInstagram, name: "Instagram", url: "https://www.instagram.com/thedigitalartistpush/" },
-    { icon: FaFacebook, name: "Facebook", url: "https://www.facebook.com/share/1GKkc93QdW/" },
+    { icon: FaFacebook, name: "Facebook", url: "#" },
     { icon: FaTiktok, name: "TikTok", url: "#" },
   ];
 

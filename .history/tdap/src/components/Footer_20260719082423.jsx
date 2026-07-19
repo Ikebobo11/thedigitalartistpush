@@ -12,9 +12,9 @@ function Footer() {
           <h3>The Digital Artist Push</h3>
           <p>Global music distribution and marketing services for independent artists.</p>
           <div className="footer-social">
-            <a href="https://www.instagram.com/thedigitalartistpush/" aria-label="Instagram"><FaInstagram /></a>
+            <a href="#" aria-label="Instagram"><FaInstagram /></a>
             {/* <a href="#" aria-label="Twitter">🐦</a> */}
-            <a href="https://www.facebook.com/share/1GKkc93QdW/" aria-label="Facebook"><FaFacebook /></a>
+            <a href="" aria-label="Facebook"><FaFacebook /></a>
             {/* <a href="#" aria-label="YouTube">▶️</a> */}
             <a href="#" aria-label="TikTok"><FaTiktok /></a>
           </div>
